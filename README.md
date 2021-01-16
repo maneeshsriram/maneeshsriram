@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://maneesh-portfolio.web.app/](http://maneesh-portfolio.web.app/)
 
-- 💬 Ask me about **react, javascript, django, mongoDB, nodeJS**
+- 💬 Ask me about **python,reactJS javascript, django**
 
 - 📫 How to reach me **maneeshsriram123@gmail.com**
 
