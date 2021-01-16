@@ -25,6 +25,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshsriram&show_icons=true&locale=en&layout=compact" alt="maneeshsriram" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshsriram&show_icons=true&locale=en" alt="maneeshsriram" /></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshsriram&" alt="maneeshsriram" /></p>
