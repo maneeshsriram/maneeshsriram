@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maneeshsriram123@gmail.com**
 
-- ⚡ Fun fact: Your skills and knowledge > Certificates  
+- ⚡ Fun fact - Your skills and knowledge > Certificates  
 
 <br>
 
